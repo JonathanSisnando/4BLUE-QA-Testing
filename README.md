@@ -34,7 +34,7 @@ Abaixo estão os artefatos técnicos produzidos durante o ciclo de testes, estru
 
 * **[Plano de Teste (Test Plan)](./docs/PLANO_DE_TESTE.md):** Documento contendo as diretrizes, escopo, ferramentas e critérios de aprovação/suspensão aplicados neste ciclo.
 * **[Charter Exploratório (Matriz de Cobertura)](./docs/CHARTER_EXPLORATORIO.md):** Matriz sistemática baseada em SBTM contendo 51 cenários executados, utilizando técnicas de Análise de Valor Limite e Partição de Equivalência.
-* **[Relatório de Bugs e Melhorias (Bug Reports)](./docs/RELATORIO_DE_TESTES.md):** Compilação estruturada das falhas encontradas, classificadas por severidade e prioridade, contendo os passos para reprodução e propostas de mitigação no *client-side* (Poka-Yokes).
+* **[Relatório de Testes (Bug Reports)](./docs/RELATORIO_DE_TESTES.md):** Compilação estruturada das falhas encontradas, classificadas por severidade e prioridade, contendo os passos para reprodução e propostas de mitigação no *client-side* (Poka-Yokes).
 * **[Localização Erros (Issues)](https://github.com/JonathanSisnando/4BLUE-QA-Testing/issues):** Localização dos bugs registrados durante o teste exploratório no website 
 
 ---
