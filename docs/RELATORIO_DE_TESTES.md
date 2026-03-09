@@ -67,4 +67,4 @@ Sugestões focadas em **Poka-Yoke** para mitigar riscos residuais:
 ## 6. Parecer Final da Qualidade
 **Status:** **NO-GO (Reprovado)**
 
-[**Fundamentação:** De acordo com os critérios de aprovação estabelecidos no Plano de Teste (Item 9.1), a liberação exige 0% de issues no fluxo principal[cite: 52]. Devido à presença de bugs críticos no módulo de autenticação, o sistema não atende aos requisitos mínimos para promoção ao ambiente de Produção.
+[**Fundamentação:** De acordo com os critérios de aprovação estabelecidos no Plano de Teste (Item 9.1), a liberação exige 0% de issues no fluxo principal. Devido à presença de bugs críticos no módulo de autenticação, o sistema não atende aos requisitos mínimos para promoção ao ambiente de Produção.
