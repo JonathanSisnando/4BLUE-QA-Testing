@@ -1,4 +1,4 @@
-# Projeto 4BLUE - Qualidade de Software
+# Projeto 4BLUE - Qualidade de Software 
 
 Este repositório contém toda a documentação de QA e artefatos de teste para o projeto **4BLUE**, focando na garantia de qualidade das funcionalidades de Criar Conta e Login.
 
