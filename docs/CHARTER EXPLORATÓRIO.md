@@ -73,6 +73,7 @@
 | **Navegação (Teclado):** Verificar se a tecla "TAB" percorre todos os campos e o botão na ordem lógica da tela. | Pass | Não | - |
 | **Redirecionamento:** Clicar em "Voltar para login" e verificar se o usuário é enviado para a tela de autenticação. | Pass | Sim | 0000024 {MELHORIA} - [Criar Conta] - Desabilitar botão "Criar conta" para formulários incompletos *(Nota: ID associado conforme documento original)* |
 
+
 ---
 
 ### Login - Fluxo Base e Email
@@ -82,3 +83,8 @@
 | **Caminho Feliz:** Tentar realizar login inserindo um e-mail já cadastrado e a senha correta correspondente. | Fail | Sim | 0000031 [BUG - Login] Sistema exibe toast de "Erro Inesperado" após login bem-sucedido |
 | **Válido (Email):** Tentar inserir um e-mail no formato padrão (usuario@dominio.com). | Pass | Não | - |
 | **Inválido:** Tentar realizar login com o campo EMAIL Vazio e a senha preenchida | Pass | Não | - |
+
+
+
+Arquivo: 
+[Modelo Charter Exploratório - 4Blue- V 1.0.0.xlsx](https://github.com/user-attachments/files/25834873/Modelo.Charter.Exploratorio.-.4Blue-.V.1.0.0.xlsx)
