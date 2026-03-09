@@ -42,4 +42,4 @@ Abaixo estão os artefatos técnicos produzidos durante o ciclo de testes, estru
 **Ferramentas Utilizadas:**
 * GitHub (Documentação e Versionamento)
 * DevTools (Inspeção de DOM e prototipação de scripts de validação)
-* Gravador de Tela/Snipping Tool (Evidências visuais)
+* Gravador de Tela/Snipping Tool (Evidências visuais): JAM - VIA LINK. Para visualizar a evidência, basta clicar no link de evidência que o usuário será direcionado a uma nova aba
