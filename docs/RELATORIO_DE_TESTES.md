@@ -1,4 +1,4 @@
-# Test Summary Report (TSR) - Projeto 4BLUE
+# Relatório de Testes - Projeto 4BLUE
 
 ## 1. Informações do Projeto e Ambiente
 * **Responsável Técnico:** Jonathan Gabriel.
