@@ -2,6 +2,29 @@
 
 ---
 
+## O que é este Charter Exploratório?
+
+Este documento foi desenvolvido com base na metodologia de **Testes Baseados em Sessões (Session-Based Test Management - SBTM)**, atuando como um roteiro dinâmico e estruturado para a execução de testes exploratórios.
+
+### Diretrizes da Exploração
+Ao contrário de roteiros de teste tradicionais e rígidos, este Charter baseia-se em investigação ativa:
+
+* **Missão Estratégica:** Validar a integridade, segurança e regras de negócio do módulo de Autenticação.
+* **Execução Dinâmica:** Os cenários são concebidos e executados simultaneamente, exigindo pensamento crítico do analista.
+* **Técnicas de Modelagem:** Aplicação de **Partição de Equivalência** e **Análise de Valor Limite** para explorar a aplicação de forma inteligente.
+* **Rastreabilidade e Auditoria:** O processo é documentado continuamente na matriz abaixo. Isso garante que a exploração livre mantenha o mapeamento direto entre os dados utilizados, os cenários validados e a origem dos defeitos (Issues) encontrados.
+
+---
+
+### Regras de Avaliação de Status (Pass / Fail)
+
+Para fins de rigor técnico e visibilidade de qualidade, a matriz de execução adota uma regra estrita para a classificação dos resultados. **Qualquer cenário que gere um apontamento de correção ou refinamento será classificado como falha.**
+
+| Tipo de Apontamento | Pass (Passou) | Fail (Falhou) | Justificativa |
+| :--- | :--- | :--- | :--- |
+| **Falha (Bug)** | **Sim** | **Sim** | O comportamento do sistema diverge do requisito esperado ou apresenta quebra funcional. |
+| **Melhoria (Improvement)** | Não | **Sim** | Mesmo que o fluxo não tenha "quebrado" funcionalmente, a identificação de uma oportunidade de melhoria (ex: UX, prevenção de erros) reprova o cenário para garantir que o item entre no radar de revisão da equipe de engenharia. |
+
 ### Criar Conta - Nome Completo
 
 | Cenário de Teste | Resultado | Falhas | ID e Comentários |
