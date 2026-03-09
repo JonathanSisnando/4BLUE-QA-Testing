@@ -23,6 +23,7 @@ o Prioridade (Alta / Média / Baixa)
 o Quais 2 bugs você corrigiria primeiro e por quê?
 o Caso tenha, coloque suas sugestões de melhorias para essas telas..
 **Plataforma de Teste:** WEB CMS (https://qa-play-sim.lovable.app/)
+
 **Data de Execução:** 06/03/2026
 
 ---
@@ -32,8 +33,8 @@ o Caso tenha, coloque suas sugestões de melhorias para essas telas..
 Abaixo estão os artefatos técnicos produzidos durante o ciclo de testes, estruturados para garantir a cobertura e a rastreabilidade das falhas encontradas. Clique nos links para acessar os documentos detalhados:
 
 * **[Plano de Teste (Test Plan)](./docs/PLANO_DE_TESTE.md):** Documento contendo as diretrizes, escopo, ferramentas e critérios de aprovação/suspensão aplicados neste ciclo.
-* **[Charter Exploratório (Matriz de Cobertura)](./docs/CHARTER_EXPLORATORIO.md):** Matriz sistemática baseada em SBTM contendo 51 cenários executados, utilizando técnicas de Análise de Valor Limite e Partição de Equivalência.
-* **[Relatório de Bugs e Melhorias (Bug Reports)](./docs/RELATORIO_DE_BUGS.md):** Compilação estruturada das falhas encontradas, classificadas por severidade e prioridade, contendo os passos para reprodução e propostas de mitigação no *client-side* (Poka-Yokes).
+* **[Charter Exploratório (Matriz de Cobertura)](./docs/CHARTER_EXPLORATÓRIO.md):** Matriz sistemática baseada em SBTM contendo 51 cenários executados, utilizando técnicas de Análise de Valor Limite e Partição de Equivalência.
+* **[Relatório de Bugs e Melhorias (Bug Reports)](./docs/RELATORIO_DE_TESTES.md):** Compilação estruturada das falhas encontradas, classificadas por severidade e prioridade, contendo os passos para reprodução e propostas de mitigação no *client-side* (Poka-Yokes).
 * **[Localização Erros (Issues)](https://github.com/JonathanSisnando/4BLUE-QA-Testing/issues):** Localização dos bugs registrados durante o teste exploratório no website 
 
 ---
