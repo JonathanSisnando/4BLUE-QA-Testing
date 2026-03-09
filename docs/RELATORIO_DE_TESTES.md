@@ -29,9 +29,6 @@ Os indicadores abaixo refletem a saúde atual da aplicação testada com base na
 
 
 
-[Image of software testing life cycle diagram]
-
-
 ---
 
 ## 4. Análise de Defeitos por Criticidade
