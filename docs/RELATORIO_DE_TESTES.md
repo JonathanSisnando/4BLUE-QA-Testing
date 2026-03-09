@@ -39,15 +39,19 @@ Os indicadores abaixo refletem a saúde atual da aplicação testada com base na
 | **Usabilidade/UX** | 3 | 3 - Média | Erros de feedback e mensagens genéricas. |
 | **Melhorias (Oportunidades)** | 17 | 4 - Baixa | Refinamento estético e Poka-Yoke. |
 
+**[Localização Erros (Issues)](https://github.com/JonathanSisnando/4BLUE-QA-Testing/issues):** Localização dos bugs registrados durante o teste no website 
+
+
 ---
 
 ## 5. Respostas ao Desafio Técnico
 
 ### 5.1 Quais 2 bugs você corrigiria primeiro e por quê?
 
-1.  **ID 0000028 - Sistema permite cadastro com senhas divergentes:**
+
+1.  **[**ID 0000028](https://github.com/JonathanSisnando/4BLUE-QA-Testing/issues/28):Sistema permite cadastro com senhas divergentes (Senha vs. Confirmação)**
     * **Justificativa:** É uma falha crítica de integridade. Permitir que o campo de confirmação divirja da senha original gera a criação de contas com credenciais inacessíveis, causando bloqueio imediato após o cadastro e perda de conversão do usuário.
-2.  **ID 0000038 - Alerta "Conta não encontrada" para senha incorreta no Login:**
+2.  **[**ID 0000039](https://github.com/JonathanSisnando/4BLUE-QA-Testing/issues/39):Sistema exibe alerta nativo e mensagem imprecisa para senha incorreta**
     * **Justificativa:** Prejudica a retenção e a segurança percebida. Ao informar que a conta não existe em vez de apontar erro de senha, o sistema induz o usuário a acreditar que seu cadastro foi perdido ou excluído, fragilizando a confiança na plataforma.
 
 ### 5.2 Sugestões de melhorias para as telas
