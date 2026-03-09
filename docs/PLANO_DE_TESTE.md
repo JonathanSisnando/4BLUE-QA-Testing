@@ -55,9 +55,9 @@ Para esta versão e plataforma disponibilizada para teste, não haverá verifica
 
 ## 6. FERRAMENTAS
 As ferramentas de testes utilizadas serão:
-* MantisBT: issue tracker do projeto
-* Explorer Charter (Planilha Office 360)
-* GitHub – Link
+* Explorer Charter (Planilha Office 360) - **[Charter Exploratório (Matriz de Cobertura)](./docs/CHARTER_EXPLORATORIO.md):** Matriz sistemática baseada em SBTM 
+* GitHub – **[Localização Erros (Issues)](https://github.com/JonathanSisnando/4BLUE-QA-Testing/issues):** issue tracker do projeto 
+
 
 ## 7. AMBIENTES DE TESTE
 ### 7.1 AMBIENTE TESTE: APLICAÇÃO
